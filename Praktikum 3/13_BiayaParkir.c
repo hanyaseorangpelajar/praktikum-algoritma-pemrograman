@@ -1,7 +1,7 @@
 /*
 Nama File : 13_BiayaParkir.c
 Deskripsi : {Menghitung besarnya biaya
-			parkir berdasarkan lamanya parkir kendaraan}
+	    parkir berdasarkan lamanya parkir kendaraan}
 Nama : Adri Audifirst
 NIM : 24060121140152
 */
