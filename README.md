@@ -1,5 +1,5 @@
 # Praktikum-Algoritma-Pemrograman
-| First Header  | Second Header |
+| Data  | Deskripsi |
 | ------------- | ------------- |
 |Nama          |  Adri Audifirst         |
 |NIM           |  24060121140152         |
