@@ -1,7 +1,7 @@
 /*
 Nama File : randgen.c
 Deskripsi : sebuah program yang saya gunakan untuk menciptakan
-			list yang berisi integer acak yang berurut (karena ini adalah list).
+            list yang berisi integer acak yang berurut (karena ini adalah list).
 Nama : Adri Audifirst
 NIM : 24060121140152
 */
