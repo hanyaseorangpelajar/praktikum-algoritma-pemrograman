@@ -1,5 +1,5 @@
 /*
-Nama File : randnum.c
+Nama File : randnum.h
 Deskripsi : sebuah list, yang mengandung 1000 integer random.
 Nama : Adri Audifirst
 NIM : 24060121140152
