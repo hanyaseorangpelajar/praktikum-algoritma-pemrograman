@@ -1,2 +1,2 @@
-Gunakan dengan bijak dan tanggung jawab, ditujukan hanya sebagai refernsi
+Gunakan dengan bijak dengan penuh tanggung jawab, ditujukan hanya sebagai referensi
 By Adri Audifirst
